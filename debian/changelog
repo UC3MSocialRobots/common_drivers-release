@@ -1,0 +1,13 @@
+ros-hydro-sr-common-drivers (0.0.2-0raring) raring; urgency=high
+
+  Updated with ROS name convention.
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Mon, 13 Apr 2015 22:00:00 -0000
+
+ros-hydro-sr-common-drivers (0.0.1-0raring) raring; urgency=high
+
+  Initial release.
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Wed, 08 Apr 2015 22:00:00 -0000
+
+
