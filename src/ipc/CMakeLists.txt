@@ -1,5 +1,5 @@
 add_library(semaphores
-            semaphores.c semaphores.h)
+            semaphores.c)
 target_link_libraries(semaphores
                       ${catkin_LIBRARIES})
 
