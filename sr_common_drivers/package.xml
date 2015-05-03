@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
     <name>sr_common_drivers</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <description>
-        common_drivers metapackage
+        sr_common_drivers metapackage
     </description>
 
     <!-- Author tags are optional, multiple are allowed, one per tag -->
@@ -20,9 +20,9 @@
 
 
     <!-- Url tags are optional, but mutiple are allowed, one per tag -->
-    <url type="website">http://wiki.ros.org/common_drivers</url>
-    <url type="bugtracker">https://github.com/UC3MSocialRobots/maggie_drivers/issues</url>
-    <url type="repository">https://github.com/UC3MSocialRobots/maggie_drivers.git</url>
+    <url type="website">http://wiki.ros.org/sr_common_drivers</url>
+    <url type="bugtracker">https://github.com/UC3MSocialRobots/sr_common_drivers/issues</url>
+    <url type="repository">https://github.com/UC3MSocialRobots/sr_common_drivers.git</url>
 
 
     <!-- The *_depend tags are used to specify dependencies -->
