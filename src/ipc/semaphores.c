@@ -23,7 +23,7 @@
  * A copy of the Licencia Educativa UC3M is in the LICENSE file.
  */
 
-#include "semaphores.h"
+#include "sr_communications/ipc/semaphores.h"
 
 //////////////////////////////////////////////////
 
