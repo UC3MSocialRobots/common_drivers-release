@@ -1,11 +1,6 @@
 # sr_common_drivers
 
-GitHub repository for the common drivers for the robots of the Social Robots Group.
-
-## CONTENT
-
-- `sr_communications`: a ROS package with the communications with the drivers.
-- `sr_common_drivers`: a ROS metapackage.
+ROS metapackage for the common drivers for the robots of the Social Robots Group.
 
 ## LICENSE
 
