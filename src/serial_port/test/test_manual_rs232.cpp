@@ -33,7 +33,7 @@
  */
 
 #include <stdio.h>
-#include "../rs232.h"
+#include "sr_communications/serial_port/rs232.h"
 
 #define DEF_SERIAL_PORT_FILE    "/dev/brazo_derecho"
 #define DEF_SEMFILE             "semfile.sem"

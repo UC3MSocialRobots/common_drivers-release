@@ -26,7 +26,7 @@
  * A copy of the Licencia Educativa UC3M is in the LICENSE file.
  */
 
-#include "rs232.h"
+#include "sr_communications/serial_port/rs232.h"
 
 //////////////////////////////////////////////////
 
