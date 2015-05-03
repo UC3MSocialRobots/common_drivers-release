@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
     <name>sr_communications</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <description>
         communications for the Social Robots robots
     </description>
