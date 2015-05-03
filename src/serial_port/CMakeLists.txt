@@ -1,5 +1,5 @@
 add_library(rs232
-            rs232.cpp rs232.h)
+            rs232.cpp)
 target_link_libraries(rs232
                       semaphores ${catkin_LIBRARIES})
 

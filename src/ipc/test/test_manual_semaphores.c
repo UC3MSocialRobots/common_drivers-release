@@ -25,7 +25,7 @@
 
 #include <stdio.h>
 #include <string.h>
-#include "../semaphores.h"
+#include "sr_communications/ipc/semaphores.h"
 
 //#define DEFAULT_SEMFILE        AD_CORE_OUTPUTDIR "communications/ipc/semfile.tests"
 #define DEFAULT_SEMFILE        "/tmp/communications/ipc/semfile.tests"
